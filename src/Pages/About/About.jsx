@@ -3,12 +3,12 @@ import { Helmet } from 'react-helmet';
 
 const testimonials = [
     {
-        name: 'Hardik Desai',
-        role: 'Fronted Web Developer',
+        name: 'Muhammad Shan',
+        role: 'Full Stack Developer',
         content:
             'A resume builder website is a web-based tool that allows users to create and customize a professional resume to their desired specifications. These websites typically provide templates for creating a resume.',
         avatar:
-            'https://avatars.githubusercontent.com/u/87645745?v=4',
+            'https://avatars.githubusercontent.com/u/150339563?s=400&u=59d6ed76ce41ccf8cfd2662a1305d650aea9a904&v=4',
     }
 ];
 
